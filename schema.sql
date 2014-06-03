@@ -1,0 +1,1 @@
+CREATE TABLE urls (id integer primary key autoincrement, url TEXT, hits integer);
